@@ -1,0 +1,4 @@
+ID,Null Hypothesis,Test,Statistic,p-value,Effect Size,Decision
+H1,Equal delivery-delay distributions across warehouses,Kruskal-Wallis,10.038628420039313,0.7593538654211676,0.0,Fail to reject
+H2,Equal delivery-delay distributions for returned and non-returned orders,Mann-Whitney U,1069995.0,0.9827713845464969,0.0005982428193348488,Fail to reject
+H3,Equal order-revenue distributions across customer cities,Kruskal-Wallis,3.4319161311753947,0.329700316035446,9.073868302004091e-05,Fail to reject

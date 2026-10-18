@@ -1,0 +1,4 @@
+Category,OrderLines,ReturnedOrderLines,ReturnedOrderLineExposureRate
+Electronics,4590,442,0.0962962962962963
+Fashion,5780,542,0.09377162629757785
+Food,4630,437,0.09438444924406048

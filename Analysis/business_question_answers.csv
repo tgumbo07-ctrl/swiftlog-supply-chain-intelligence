@@ -1,0 +1,11 @@
+QuestionNo,Topic,Answer
+1,Highest-value customer segment,High-Value Loyal; approximately $11.48m total observed customer revenue.
+2,Top revenue products/category,"P040 is top product (~$191,463.68); Fashion is top category (~$8,059,602.65)."
+3,Underperforming suppliers,Not determinable: SupplierID is not linked to operational tables.
+4,Warehouses needing attention,W05/W09/W03 have the highest observed delayed rates; H1 p=0.759 means differences are not statistically significant.
+5,Highest product return rates,"Not determinable at product level; Returns lacks ProductID/OrderItemID. Electronics has the highest returned-order exposure proxy, not a true return rate."
+6,Regions with greatest delay,Warehouse-location proxy: Lagos has the highest average delay (~3.59 days).
+7,Operational bottlenecks,"Delayed-delivery rate 63.7%; data gaps include supplier linkage, capacity, dated inventory, return-line granularity and 236 itemless orders."
+8,Predictive variables,"Order size/value, product mix, calendar features, prior customer history, warehouse/location, staffing/load proxies; exclude outcome-derived delay fields."
+9,Hidden patterns,Warehouse/return delay hypotheses unsupported; August is peak demand/revenue; Fashion leads revenue; customer segmentation is clearer than warehouse segmentation.
+10,Overall recommendation,"Reduce delays, prepare for August, protect high-value customers, improve source data, then build predictive models."

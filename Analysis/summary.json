@@ -1,0 +1,71 @@
+{
+  "date_range": [
+    "2026-01-01",
+    "2026-09-08"
+  ],
+  "orders": 5000,
+  "orders_with_item_data": 4764,
+  "orders_missing_item_data": 236,
+  "customers": 1000,
+  "products": 250,
+  "warehouses": 15,
+  "suppliers": 150,
+  "total_revenue": 21668065.85,
+  "avg_order_value": 4548.292579764904,
+  "total_units": 82442,
+  "delayed_rate": 0.6372,
+  "avg_delay": 3.5696,
+  "return_order_rate": 0.0946,
+  "inventory_raw_rows": 4000,
+  "inventory_wp_rows": 2455,
+  "inventory_exact_duplicates": 3,
+  "inventory_wp_repeat_beyond_first": 1545,
+  "supplier_link_available": false,
+  "warehouse_capacity_available": false,
+  "top_category_by_revenue": "Fashion",
+  "top_category_revenue": 8059602.65,
+  "top_product": "P040",
+  "top_product_revenue": 191463.68,
+  "top_customer": "C0263",
+  "top_customer_revenue": 74102.56,
+  "best_warehouse_delay_rate": "W01",
+  "best_warehouse_delay_rate_value": 0.5873493975903614,
+  "worst_warehouse_delay_rate": "W05",
+  "worst_warehouse_delay_rate_value": 0.6796407185628742,
+  "peak_month_orders": "August",
+  "peak_month_orders_n": 654,
+  "peak_month_revenue": "August",
+  "peak_month_revenue_value": 2850476.97,
+  "hypothesis_tests": [
+    {
+      "ID": "H1",
+      "NullHypothesis": "Delivery delay distribution is equal across warehouses",
+      "Test": "Kruskal-Wallis",
+      "Statistic": 10.038628420039313,
+      "PValue": 0.7593538654211676,
+      "EffectSize": 0.0,
+      "Decision": "Fail to reject"
+    },
+    {
+      "ID": "H2",
+      "NullHypothesis": "Delivery delay distribution is equal for returned and non-returned orders",
+      "Test": "Mann-Whitney U",
+      "Statistic": 1069995.0,
+      "PValue": 0.9827713845464969,
+      "EffectSize": 0.0005982428193348488,
+      "Decision": "Fail to reject"
+    },
+    {
+      "ID": "H3",
+      "NullHypothesis": "Order revenue distribution is equal across customer cities",
+      "Test": "Kruskal-Wallis",
+      "Statistic": 3.4319161311753947,
+      "PValue": 0.329700316035446,
+      "EffectSize": 9.073868302004091e-05,
+      "Decision": "Fail to reject"
+    }
+  ],
+  "customer_silhouette": 0.35967988341527407,
+  "warehouse_silhouette": 0.3005491641520569,
+  "product_silhouette": 0.3295765510300675
+}

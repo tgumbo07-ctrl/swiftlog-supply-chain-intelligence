@@ -1,0 +1,11 @@
+ChildKey,ParentKey,UnmatchedRows
+Orders.CustomerID,Customers.CustomerID,0
+Order_Items.OrderID,Orders.OrderID,0
+Order_Items.ProductID,Products.ProductID,0
+Shipments.OrderID,Orders.OrderID,0
+Shipments.WarehouseID,Warehouses.WarehouseID,0
+Delivery_Performance.ShipmentID,Shipments.ShipmentID,0
+Inventory.ProductID,Products.ProductID,0
+Inventory.WarehouseID,Warehouses.WarehouseID,0
+Employees.WarehouseID,Warehouses.WarehouseID,0
+Returns.OrderID,Orders.OrderID,0

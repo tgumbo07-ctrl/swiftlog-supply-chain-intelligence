@@ -1,0 +1,251 @@
+ProductID,Category,UnitPrice,ProductRevenue,UnitsSold,Orders,ProductCluster,ProductSegment
+P001,Electronics,248.85,103521.6,416,67,2,Revenue & Volume Leaders
+P002,Fashion,177.08,66405.0,375,69,2,Revenue & Volume Leaders
+P003,Food,358.11,113162.76000000001,316,62,0,Premium Revenue
+P004,Electronics,487.85,153672.75,315,53,0,Premium Revenue
+P005,Electronics,20.62,6701.5,325,58,1,Volume Drivers
+P006,Fashion,449.68,160535.76,357,62,0,Premium Revenue
+P007,Fashion,197.79,88214.34,446,74,2,Revenue & Volume Leaders
+P008,Fashion,418.59,163250.09999999998,390,77,2,Revenue & Volume Leaders
+P009,Electronics,95.61,28874.22,302,55,3,Long Tail
+P010,Fashion,361.13,129645.67,359,67,2,Revenue & Volume Leaders
+P011,Electronics,58.85,16301.45,277,50,3,Long Tail
+P012,Fashion,174.45,63325.35,363,64,1,Volume Drivers
+P013,Electronics,485.26,134417.02,277,56,0,Premium Revenue
+P014,Electronics,331.74,110137.68000000001,332,58,0,Premium Revenue
+P015,Fashion,394.42,113987.38,289,49,0,Premium Revenue
+P016,Electronics,236.04,78129.24,331,60,1,Volume Drivers
+P017,Fashion,240.87,69129.69,287,53,3,Long Tail
+P018,Fashion,251.39,93768.46999999999,373,65,2,Revenue & Volume Leaders
+P019,Fashion,388.85,106544.90000000001,274,50,3,Long Tail
+P020,Food,364.39,109317.0,300,59,0,Premium Revenue
+P021,Food,104.95,37467.15,357,71,1,Volume Drivers
+P022,Food,225.9,69577.2,308,54,3,Long Tail
+P023,Electronics,275.59,77991.96999999999,283,55,3,Long Tail
+P024,Electronics,290.0,113680.0,392,71,2,Revenue & Volume Leaders
+P025,Food,464.12,173580.88,374,64,2,Revenue & Volume Leaders
+P026,Fashion,421.48,165220.16,392,69,2,Revenue & Volume Leaders
+P027,Electronics,83.44,21527.52,258,56,3,Long Tail
+P028,Electronics,194.3,71891.0,370,70,2,Revenue & Volume Leaders
+P029,Fashion,63.4,20858.6,329,62,1,Volume Drivers
+P030,Electronics,22.85,8317.4,364,65,1,Volume Drivers
+P031,Food,46.55,16245.949999999999,349,60,1,Volume Drivers
+P032,Fashion,99.65,20627.55,207,47,3,Long Tail
+P033,Fashion,385.38,147985.92,384,71,2,Revenue & Volume Leaders
+P034,Food,336.94,63681.659999999996,189,35,3,Long Tail
+P035,Food,400.96,168804.16,421,73,2,Revenue & Volume Leaders
+P036,Fashion,151.37,49497.990000000005,327,59,1,Volume Drivers
+P037,Fashion,86.2,27497.8,319,54,1,Volume Drivers
+P038,Fashion,486.33,141522.03,291,55,0,Premium Revenue
+P039,Food,414.75,119448.0,288,58,0,Premium Revenue
+P040,Electronics,473.92,191463.68,404,73,2,Revenue & Volume Leaders
+P041,Electronics,19.21,5609.320000000001,292,55,3,Long Tail
+P042,Food,204.31,58228.35,285,59,3,Long Tail
+P043,Food,320.56,103540.88,323,60,0,Premium Revenue
+P044,Electronics,370.68,112686.72,304,58,0,Premium Revenue
+P045,Electronics,457.2,151790.4,332,61,0,Premium Revenue
+P046,Food,273.49,79038.61,289,54,3,Long Tail
+P047,Electronics,201.49,72133.42,358,61,1,Volume Drivers
+P048,Fashion,12.61,4022.5899999999997,319,62,1,Volume Drivers
+P049,Fashion,403.89,142573.16999999998,353,61,0,Premium Revenue
+P050,Electronics,491.26,154746.9,315,54,0,Premium Revenue
+P051,Food,454.55,137274.1,302,55,0,Premium Revenue
+P052,Electronics,334.51,106374.18,318,61,0,Premium Revenue
+P053,Electronics,177.81,52987.38,298,48,3,Long Tail
+P054,Fashion,127.18,37263.740000000005,293,56,3,Long Tail
+P055,Electronics,389.76,136805.76,351,66,2,Revenue & Volume Leaders
+P056,Food,468.36,139102.92,297,52,0,Premium Revenue
+P057,Food,480.56,151376.4,315,56,0,Premium Revenue
+P058,Electronics,96.05,28526.85,297,56,3,Long Tail
+P059,Food,296.82,79547.76,268,53,3,Long Tail
+P060,Fashion,261.43,76598.99,293,61,1,Volume Drivers
+P061,Electronics,219.44,88434.31999999999,403,77,2,Revenue & Volume Leaders
+P062,Food,399.26,158506.22,397,75,2,Revenue & Volume Leaders
+P063,Electronics,468.53,106356.31,227,44,3,Long Tail
+P064,Electronics,365.07,135440.97,371,70,2,Revenue & Volume Leaders
+P065,Electronics,353.15,134903.3,382,69,2,Revenue & Volume Leaders
+P066,Food,348.4,119501.2,343,68,2,Revenue & Volume Leaders
+P067,Food,330.24,101383.68000000001,307,56,0,Premium Revenue
+P068,Fashion,273.01,89547.28,328,73,2,Revenue & Volume Leaders
+P069,Fashion,131.48,53906.799999999996,410,73,2,Revenue & Volume Leaders
+P070,Fashion,391.94,130907.95999999999,334,55,0,Premium Revenue
+P071,Electronics,68.36,23037.32,337,59,1,Volume Drivers
+P072,Electronics,325.51,103837.69,319,68,1,Volume Drivers
+P073,Fashion,199.62,71663.58,359,62,1,Volume Drivers
+P074,Food,284.38,89010.94,313,60,0,Premium Revenue
+P075,Food,324.3,89182.5,275,46,3,Long Tail
+P076,Electronics,244.67,77071.04999999999,315,59,1,Volume Drivers
+P077,Fashion,489.27,154120.05,315,54,0,Premium Revenue
+P078,Food,127.2,31291.2,246,46,3,Long Tail
+P079,Electronics,15.96,5362.56,336,64,1,Volume Drivers
+P080,Food,478.08,127169.28,266,54,0,Premium Revenue
+P081,Fashion,162.88,59614.08,366,59,1,Volume Drivers
+P082,Fashion,146.26,48265.799999999996,330,58,1,Volume Drivers
+P083,Electronics,213.62,75835.1,355,58,1,Volume Drivers
+P084,Fashion,301.53,88348.29,293,58,0,Premium Revenue
+P085,Food,493.2,187416.0,380,62,2,Revenue & Volume Leaders
+P086,Food,356.69,145886.21,409,70,2,Revenue & Volume Leaders
+P087,Electronics,165.98,51287.82,309,60,1,Volume Drivers
+P088,Fashion,272.0,96288.0,354,62,1,Volume Drivers
+P089,Fashion,229.86,55626.12,242,50,3,Long Tail
+P090,Fashion,255.78,98475.3,385,63,2,Revenue & Volume Leaders
+P091,Fashion,214.63,71901.05,335,63,1,Volume Drivers
+P092,Fashion,92.13,30310.769999999997,329,65,1,Volume Drivers
+P093,Food,203.79,68677.23,337,57,1,Volume Drivers
+P094,Fashion,200.65,78454.15000000001,391,65,2,Revenue & Volume Leaders
+P095,Food,108.35,45290.299999999996,418,74,2,Revenue & Volume Leaders
+P096,Fashion,410.29,135395.7,330,61,0,Premium Revenue
+P097,Food,186.4,66917.6,359,64,1,Volume Drivers
+P098,Food,84.23,36218.9,430,73,2,Revenue & Volume Leaders
+P099,Electronics,287.77,76834.59,267,46,3,Long Tail
+P100,Fashion,423.97,166620.21000000002,393,66,2,Revenue & Volume Leaders
+P101,Food,392.47,149531.07,381,58,0,Premium Revenue
+P102,Fashion,314.8,79644.40000000001,253,56,3,Long Tail
+P103,Electronics,368.21,102362.37999999999,278,57,0,Premium Revenue
+P104,Electronics,174.7,68133.0,390,70,2,Revenue & Volume Leaders
+P105,Fashion,79.93,31492.420000000002,394,69,1,Volume Drivers
+P106,Fashion,134.95,50606.25,375,60,1,Volume Drivers
+P107,Electronics,181.18,50549.22,279,48,3,Long Tail
+P108,Electronics,146.78,51519.78,351,60,1,Volume Drivers
+P109,Electronics,239.2,96876.0,405,68,2,Revenue & Volume Leaders
+P110,Electronics,83.03,22252.04,268,53,3,Long Tail
+P111,Food,73.83,30270.3,410,74,2,Revenue & Volume Leaders
+P112,Food,133.83,57413.07000000001,429,68,2,Revenue & Volume Leaders
+P113,Fashion,106.29,37732.950000000004,355,66,1,Volume Drivers
+P114,Electronics,402.83,121251.83,301,55,0,Premium Revenue
+P115,Food,273.4,79286.0,290,50,3,Long Tail
+P116,Fashion,107.22,40314.72,376,65,1,Volume Drivers
+P117,Food,220.32,83060.64,377,71,2,Revenue & Volume Leaders
+P118,Fashion,437.24,153471.24,351,62,0,Premium Revenue
+P119,Food,293.03,101388.37999999999,346,66,2,Revenue & Volume Leaders
+P120,Food,281.42,104125.40000000001,370,66,2,Revenue & Volume Leaders
+P121,Electronics,201.75,68393.25,339,55,1,Volume Drivers
+P122,Food,105.96,36238.32,342,65,1,Volume Drivers
+P123,Fashion,316.45,99048.84999999999,313,49,0,Premium Revenue
+P124,Electronics,47.8,16251.999999999998,340,60,1,Volume Drivers
+P125,Fashion,395.23,174691.66,442,74,2,Revenue & Volume Leaders
+P126,Food,38.19,9891.21,259,51,3,Long Tail
+P127,Electronics,375.71,104447.37999999999,278,53,3,Long Tail
+P128,Fashion,197.49,68529.03,347,63,1,Volume Drivers
+P129,Fashion,344.38,117777.96,342,62,0,Premium Revenue
+P130,Food,299.59,134515.90999999997,449,79,2,Revenue & Volume Leaders
+P131,Fashion,73.3,26241.399999999998,358,65,1,Volume Drivers
+P132,Fashion,273.87,109821.87,401,65,2,Revenue & Volume Leaders
+P133,Fashion,46.34,15245.86,329,62,1,Volume Drivers
+P134,Fashion,128.2,46921.2,366,64,1,Volume Drivers
+P135,Fashion,197.02,66789.78,339,59,1,Volume Drivers
+P136,Fashion,149.98,49793.36,332,64,1,Volume Drivers
+P137,Electronics,334.26,112645.62,337,50,0,Premium Revenue
+P138,Fashion,493.55,157442.45,319,62,0,Premium Revenue
+P139,Food,184.86,56752.020000000004,307,56,3,Long Tail
+P140,Food,420.91,162471.26,386,79,2,Revenue & Volume Leaders
+P141,Fashion,120.3,37653.9,313,54,3,Long Tail
+P142,Electronics,357.57,106913.43,299,51,0,Premium Revenue
+P143,Electronics,180.38,59345.02,329,55,1,Volume Drivers
+P144,Electronics,272.33,105936.37,389,69,2,Revenue & Volume Leaders
+P145,Fashion,53.41,17037.789999999997,319,57,1,Volume Drivers
+P146,Electronics,415.4,128773.99999999999,310,54,0,Premium Revenue
+P147,Fashion,112.33,41000.45,365,68,1,Volume Drivers
+P148,Electronics,237.09,65436.840000000004,276,47,3,Long Tail
+P149,Food,152.24,48260.08,317,62,1,Volume Drivers
+P150,Food,407.0,122914.0,302,50,0,Premium Revenue
+P151,Food,300.37,82301.38,274,45,3,Long Tail
+P152,Food,311.44,113675.6,365,57,0,Premium Revenue
+P153,Electronics,379.83,127622.87999999999,336,57,0,Premium Revenue
+P154,Electronics,134.9,48833.8,362,65,1,Volume Drivers
+P155,Food,38.54,14413.96,374,68,1,Volume Drivers
+P156,Food,415.99,149340.41,359,65,2,Revenue & Volume Leaders
+P157,Food,164.65,56968.9,346,64,1,Volume Drivers
+P158,Electronics,408.01,121586.98,298,56,0,Premium Revenue
+P159,Fashion,478.75,166126.25,347,56,0,Premium Revenue
+P160,Electronics,318.3,100901.1,317,59,0,Premium Revenue
+P161,Food,60.61,18425.44,304,53,3,Long Tail
+P162,Food,428.45,158954.94999999998,371,58,0,Premium Revenue
+P163,Fashion,320.38,132637.32,414,72,2,Revenue & Volume Leaders
+P164,Fashion,130.49,37059.16,284,48,3,Long Tail
+P165,Fashion,111.86,37696.82,337,62,1,Volume Drivers
+P166,Fashion,258.78,70646.93999999999,273,55,3,Long Tail
+P167,Electronics,69.57,17322.929999999997,249,51,3,Long Tail
+P168,Fashion,453.95,126652.05,279,54,0,Premium Revenue
+P169,Electronics,356.85,91710.45000000001,257,46,3,Long Tail
+P170,Fashion,411.45,119320.5,290,54,0,Premium Revenue
+P171,Electronics,198.07,56846.09,287,57,3,Long Tail
+P172,Food,462.36,163675.44,354,68,2,Revenue & Volume Leaders
+P173,Fashion,75.64,26549.64,351,60,1,Volume Drivers
+P174,Fashion,360.96,118755.84,329,53,0,Premium Revenue
+P175,Electronics,134.76,37193.759999999995,276,61,3,Long Tail
+P176,Food,11.78,3840.2799999999997,326,57,1,Volume Drivers
+P177,Electronics,69.24,24234.0,350,65,1,Volume Drivers
+P178,Food,108.76,42851.44,394,62,1,Volume Drivers
+P179,Fashion,384.04,118284.32,308,60,0,Premium Revenue
+P180,Fashion,195.24,62476.8,320,55,1,Volume Drivers
+P181,Food,246.2,78291.59999999999,318,60,1,Volume Drivers
+P182,Food,310.66,117429.48000000001,378,64,2,Revenue & Volume Leaders
+P183,Food,141.15,38251.65,271,50,3,Long Tail
+P184,Food,322.83,81353.16,252,52,3,Long Tail
+P185,Food,339.07,91209.83,269,51,3,Long Tail
+P186,Fashion,461.47,180896.24000000002,392,75,2,Revenue & Volume Leaders
+P187,Food,256.4,89996.4,351,64,1,Volume Drivers
+P188,Electronics,429.09,136879.71,319,62,0,Premium Revenue
+P189,Electronics,484.2,135576.0,280,52,0,Premium Revenue
+P190,Food,386.76,132271.91999999998,342,60,0,Premium Revenue
+P191,Electronics,216.38,61884.68,286,50,3,Long Tail
+P192,Fashion,143.27,41691.57,291,60,1,Volume Drivers
+P193,Fashion,57.89,15282.960000000001,264,49,3,Long Tail
+P194,Fashion,417.2,118902.0,285,51,0,Premium Revenue
+P195,Electronics,73.5,22050.0,300,53,3,Long Tail
+P196,Electronics,284.16,83258.88,293,52,3,Long Tail
+P197,Electronics,232.43,76004.61,327,62,1,Volume Drivers
+P198,Fashion,31.97,9079.48,284,53,3,Long Tail
+P199,Electronics,115.03,42100.98,366,63,1,Volume Drivers
+P200,Fashion,413.22,104957.88,254,47,3,Long Tail
+P201,Fashion,273.94,93961.42,343,66,1,Volume Drivers
+P202,Food,462.95,143051.55,309,57,0,Premium Revenue
+P203,Fashion,454.91,161493.05000000002,355,61,0,Premium Revenue
+P204,Food,56.07,16764.93,299,58,1,Volume Drivers
+P205,Fashion,342.28,105079.95999999999,307,56,0,Premium Revenue
+P206,Fashion,30.9,11340.3,367,62,1,Volume Drivers
+P207,Food,217.11,64698.780000000006,298,57,3,Long Tail
+P208,Food,226.47,67714.53,299,52,3,Long Tail
+P209,Fashion,478.87,170956.59,357,65,2,Revenue & Volume Leaders
+P210,Electronics,301.71,74824.08,248,45,3,Long Tail
+P211,Fashion,103.1,35878.799999999996,348,68,1,Volume Drivers
+P212,Electronics,259.78,97157.71999999999,374,64,2,Revenue & Volume Leaders
+P213,Electronics,265.7,118236.49999999999,445,79,2,Revenue & Volume Leaders
+P214,Fashion,106.57,32610.42,306,61,1,Volume Drivers
+P215,Food,186.27,56626.08,304,59,1,Volume Drivers
+P216,Electronics,439.97,144750.13,329,56,0,Premium Revenue
+P217,Electronics,490.92,156112.56,318,62,0,Premium Revenue
+P218,Electronics,390.66,114463.38,293,48,0,Premium Revenue
+P219,Fashion,41.61,13939.35,335,56,1,Volume Drivers
+P220,Food,453.88,168843.36,372,57,0,Premium Revenue
+P221,Food,234.65,80719.6,344,59,1,Volume Drivers
+P222,Fashion,418.69,103835.12,248,52,3,Long Tail
+P223,Food,96.62,34783.200000000004,360,58,1,Volume Drivers
+P224,Food,82.37,24381.52,296,55,3,Long Tail
+P225,Fashion,454.26,151268.58,333,64,0,Premium Revenue
+P226,Fashion,149.91,45422.729999999996,303,54,3,Long Tail
+P227,Electronics,31.1,9858.7,317,62,1,Volume Drivers
+P228,Fashion,255.51,93261.15,365,69,2,Revenue & Volume Leaders
+P229,Food,495.38,161989.26,327,60,0,Premium Revenue
+P230,Food,419.39,112815.91,269,50,3,Long Tail
+P231,Food,204.19,77796.39,381,67,2,Revenue & Volume Leaders
+P232,Food,496.61,143023.68,288,50,0,Premium Revenue
+P233,Food,400.37,104496.57,261,55,3,Long Tail
+P234,Food,422.61,179609.25,425,70,2,Revenue & Volume Leaders
+P235,Food,326.59,105488.56999999999,323,56,0,Premium Revenue
+P236,Fashion,203.25,69105.0,340,59,1,Volume Drivers
+P237,Electronics,453.8,129786.8,286,49,0,Premium Revenue
+P238,Fashion,240.61,70739.34000000001,294,51,3,Long Tail
+P239,Fashion,467.97,139923.03000000003,299,57,0,Premium Revenue
+P240,Fashion,280.57,111105.72,396,67,2,Revenue & Volume Leaders
+P241,Electronics,455.83,137660.66,302,50,0,Premium Revenue
+P242,Electronics,243.81,65584.89,269,49,3,Long Tail
+P243,Food,219.14,75384.15999999999,344,59,1,Volume Drivers
+P244,Fashion,298.45,105352.84999999999,353,59,0,Premium Revenue
+P245,Electronics,165.48,80588.76,487,82,2,Revenue & Volume Leaders
+P246,Fashion,83.2,29120.0,350,62,1,Volume Drivers
+P247,Electronics,298.77,84253.14,282,56,3,Long Tail
+P248,Fashion,426.97,110158.26000000001,258,49,3,Long Tail
+P249,Fashion,146.11,53037.93000000001,363,71,1,Volume Drivers
+P250,Fashion,433.86,125819.4,290,50,0,Premium Revenue

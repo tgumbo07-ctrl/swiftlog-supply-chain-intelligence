@@ -1,0 +1,13 @@
+Area,Recommendation
+Delivery optimisation,Track delayed rate/average delay weekly and run root-cause reviews.
+Warehouse process review,"Review W05/W09/W03 first as diagnostic priorities, not causal proof."
+Peak planning,Prepare operational capacity ahead of August.
+Customer retention,Protect High-Value Loyal customers with service-level monitoring.
+Product portfolio,Use product segments for replenishment and merchandising prioritisation.
+Returns,"Focus on Late Delivery, Wrong Item and Damaged workflows."
+Supplier data,Add SupplierID to operational records.
+Warehouse data,Capture true capacity and space-used measures.
+Inventory data,Capture dated inventory snapshots.
+Returns data,Add ProductID/OrderItemID and return quantity.
+Order completeness,Resolve 236 orders without item detail.
+ML governance,Prevent target leakage and re-fit learned thresholds/statistics inside training data.
